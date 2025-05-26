@@ -3983,7 +3983,7 @@ input, select, textarea {
 	border-style: solid;
 	border-top-width: 15px;
 	border-bottom-width: 15px;
-	border-left-width: 15px;
-	border-right-width: 15px;
+	border-left-width: 0px;
+	border-right-width: 0px;
 	height: 500px;
 }
