@@ -3971,5 +3971,7 @@ input, select, textarea {
 .image-game {
 	border: 5px solid #00000070;
 	border-style: solid;
+	border-top: 30px;
+	border-bottom: 30px;
 	height: 360px;
 }
