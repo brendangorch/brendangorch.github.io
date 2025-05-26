@@ -3981,16 +3981,9 @@ input, select, textarea {
 .image-game {
 	border: 5px solid #00000070;
 	border-style: solid;
-	border-top-width: 100px;
-	border-bottom-width: 100px;
+	border-top-width: 15px;
+	border-bottom-width: 15px;
 	border-left-width: 15px;
 	border-right-width: 15px;
-	height: 500px;
-}
-
-.image-hero {
-	border: 5px solid #00000070;
-	border-style: solid;
-	height: 520px;
-	
+	height: 600px;
 }
