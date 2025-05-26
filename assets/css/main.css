@@ -3975,3 +3975,11 @@ input, select, textarea {
 	border-bottom: 40px solid #00000070;
 	height: 440px;
 }
+
+.image-rust {
+	border-left: 0px solid #00000070;
+	border-right: 0px solid #00000070;
+	border-top: 40px solid #00000070;
+	border-bottom: 40px solid #00000070;
+	height: 500px;
+}
